@@ -1,3 +1,6 @@
+##### __call Magic Method
+
+```php
 <?php
 
 class Str
@@ -32,3 +35,4 @@ $a = new Str("hello world");
 // echo $a->upper() . PHP_EOL;
 // echo $a->length() . PHP_EOL;
 // echo $a->lower() . PHP_EOL;
+```
